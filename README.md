@@ -7,7 +7,7 @@ A minimal interpreter for a lambda calculus-inspired language, written in **OCam
 - Function application
 - Native interop for side effects
 
-This project was built as part of my exploration of OCaml and functional programming, inspired by Jane Street’s use of expressive and type-safe language design.
+This project was built as part of my exploration of OCaml and functional programming.
 
 ---
 
