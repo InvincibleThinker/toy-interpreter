@@ -1,4 +1,4 @@
-# 🐫 OCaml Lambda Calculus Interpreter
+# 🐫 OCaml Toy Interpreter
 
 A minimal interpreter for a lambda calculus-inspired language, written in **OCaml**, featuring:
 
